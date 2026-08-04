@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/css/style.css</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/beans.xml</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/index.html</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/Util/Conexao.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/dao/Status_usuariosDAO.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/dao/ConnectionFactory.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/model/Usuarios.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/usuarios.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/home.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/usuario-form.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/emprestimo-form.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/controller/UsuariosController.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/dao/UsuariosDAO.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/web.xml</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/livros.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/controller/LivrosController.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/livro-form.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/dao/LivrosDAO.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/dao/Status_livrosDAO.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/model/Livros.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/controller/EmprestimosController.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/emprestimos.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/dao/Status_emprestimosDAO.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/devolucao-form.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/model/Emprestimos.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/web/WEB-INF/jsp/historico-emprestimos.jsp</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/dao/EmprestimosDAO.java</file>
+            <file>file:/C:/Users/leona/Videos/Biblioteca/Biblioteca/src/java/controller/SairController.java</file>
+        </group>
+    </open-files>
+</project-private>

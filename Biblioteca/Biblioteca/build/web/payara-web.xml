@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE payara-web-app PUBLIC "-//Payara.fish//DTD Payara Web Application 3.0//EN"
+"https://raw.githubusercontent.com/payara/Payara/master/appserver/deployment/dtds/payara-web-app_3_0.dtd">
+
+<payara-web-app>
+    <class-loader delegate="true"/>
+</payara-web-app>
